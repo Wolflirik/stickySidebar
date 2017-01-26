@@ -1,1 +1,1 @@
-sticky('.sticky','#footer');
+sticky('.sticky','.footer');
